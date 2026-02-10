@@ -79,6 +79,10 @@ Projetos privados representam aplicações reais em produção ou em desenvolvim
 
 ![Top Langs](./assets/top-langs.svg)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9d496ed (amends)
 ---
 
 ## 🔗 Contato & Redes
