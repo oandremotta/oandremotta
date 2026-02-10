@@ -75,9 +75,9 @@ Projetos privados representam aplicações reais em produção ou em desenvolvim
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-motta&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oandremottaa&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-motta&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oandremotta&layout=compact&theme=dark)
 
 ---
 
