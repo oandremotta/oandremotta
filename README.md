@@ -73,14 +73,6 @@ Projetos privados representam aplicações reais em produção ou em desenvolvim
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](./assets/github-stats.svg)
-
-![Top Langs](./assets/top-langs.svg)
-
----
-
 ## 🔗 Contato & Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
